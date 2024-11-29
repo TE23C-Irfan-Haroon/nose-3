@@ -12,3 +12,4 @@ C:\Users\haroon.irfan\Documents\programering 1\nose 3\nose 3\obj\Debug\net8.0\re
 C:\Users\haroon.irfan\Documents\programering 1\nose 3\nose 3\obj\Debug\net8.0\nose 3.pdb
 C:\Users\haroon.irfan\Documents\programering 1\nose 3\nose 3\obj\Debug\net8.0\nose 3.genruntimeconfig.cache
 C:\Users\haroon.irfan\Documents\programering 1\nose 3\nose 3\obj\Debug\net8.0\ref\nose 3.dll
+C:\Users\haroon.irfan\Documents\programering 1\nose 3\nose 3\obj\Debug\net8.0\nose 3.sourcelink.json
